@@ -1,4 +1,4 @@
- -  - Livro de Receitas - - s
+ Livro de Receitas
 
 Olá! Bem vindo ao meu livro de receitas
 
